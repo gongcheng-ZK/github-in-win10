@@ -1,0 +1,14 @@
+1.首先从网上下载Git for windows的最新版安装包。(http://rj.baidu.com/soft/detail/30195.html?ald)
+2.一路next就好。。。
+3.安装完后建立本地与github的连接，生成公钥和秘钥
+4.通过git-gui生成 也可以在git bash中敲命令 ssh-keygen -t rsa -C "注释内容，一般为邮件地址"生成 邮件地址用于表明你的身份
+
+5.将生成的key粘贴到github上
+
+6.创建项目
+ 
+
+
+
+7.克隆远程仓库代码到本地
+
